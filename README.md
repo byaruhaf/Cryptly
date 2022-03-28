@@ -10,7 +10,7 @@
 
 ## Week 3 Assignment
 
-Create an app called Cryptly that displays prices of cryptocurrencies
+Cryptly that displays prices of cryptocurrencies to demonstrating codeable, netowrking with combine, protocols and NotificationCenter
 
 ### Assignment Requirements completed
 * Create an app data model CryptoCurrency
