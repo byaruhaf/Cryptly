@@ -8,25 +8,18 @@
 [![Twitter](https://img.shields.io/badge/twitter-@byaruhaf-blue.svg)](http://twitter.com/byaruhaf)
 
 
-## Week 3 Assignment
+Cryptly App that displays prices of cryptocurrencies to demonstrating codeable, netowrking with combine, protocols and NotificationCenter
 
-Cryptly that displays prices of cryptocurrencies to demonstrating codeable, netowrking with combine, protocols and NotificationCenter
-
-### Assignment Requirements completed
+### Requirements completed
 * Create an app data model CryptoCurrency
 * Decode JSON data to the app data model
 * Update the user interface based on the app data model. 
 * use only filter() and/or reduce() to extract view data from the model 
 * use protocols and NotificationCenter to change app theme based on the toggle button state
-
-### Stretch Above and Beyond Requirements completed:
 * Refactor setupViews() function in to a custom UIView
 * Add trend & percentageRise variables to the app model
 * Display Most Falling and Most Rising cryptocurrencies
 * create a Roundable protocol for a custom view restricted to the class UIView.
- 
-
-### Additional Assignment Goals completed
 * Added ViewModel to prepare the model data for the view. 
 * Added animation during the change of theme's
 * Added network component to fetch data from a remote [Nomics API](api.nomics.com)
